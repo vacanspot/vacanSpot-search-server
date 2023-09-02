@@ -1,2 +1,11 @@
 server:
   port: 8082
+
+search:
+  target:
+    instagram: https://www.instagram.com/explore/tags/
+
+browser:
+  name: webdriver.gecko.driver
+  driver:
+    path: /Users/baekgyu/Downloads/geckodriver
